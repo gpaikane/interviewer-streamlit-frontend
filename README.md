@@ -8,4 +8,4 @@ The backend repo is located here: https://github.com/gpaikane/interviewr-fastapi
 As part of the code a streamlit app is created which takes input of Name, technology, difficulty level, takes prompt from the interviewee.
 Sends the details to backend which is created using fast api and gets the next question from LLMs
 
-Numer of questions selected in drop down are over a report is generated which basically fetches stored evaluation from database and displays on the page.
+Once the numer of questions selected in drop down are answered then a report is generated which basically fetches stored evaluation from database and displays on the page.
