@@ -1,4 +1,4 @@
-The repo contains frontend code which facilitates interaction like a chatbot.
+The repo contains frontend code which facilitates interaction like a chatbot of interviewer and interviewee
 
 Currently the frontend is hosted on **AWS EC2** http://51.20.190.247/
 
