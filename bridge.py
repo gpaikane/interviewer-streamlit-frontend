@@ -2,7 +2,7 @@ import requests
 import json
 import logging
 
-URL = "http://51.20.129.124/"
+URL = "http://13.233.156.224/"
 
 
 def post_endpoint_with_data(endpoint, **kwargs):
